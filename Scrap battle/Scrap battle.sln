@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrap battle", "Assembly-CSharp.csproj", "{2EC32E00-F06C-4243-9A3C-8F4F3915239B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrap battle", "Assembly-CSharp-firstpass.csproj", "{EA8B0D3B-6779-B7B8-F43F-09B7BF6B2248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrap battle", "Assembly-CSharp-Editor-firstpass.csproj", "{F8BEEA36-77A1-35B7-04FE-28F3EB0E4CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC32E00-F06C-4243-9A3C-8F4F3915239B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC32E00-F06C-4243-9A3C-8F4F3915239B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC32E00-F06C-4243-9A3C-8F4F3915239B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC32E00-F06C-4243-9A3C-8F4F3915239B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8B0D3B-6779-B7B8-F43F-09B7BF6B2248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8B0D3B-6779-B7B8-F43F-09B7BF6B2248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8B0D3B-6779-B7B8-F43F-09B7BF6B2248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8B0D3B-6779-B7B8-F43F-09B7BF6B2248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BEEA36-77A1-35B7-04FE-28F3EB0E4CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BEEA36-77A1-35B7-04FE-28F3EB0E4CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BEEA36-77A1-35B7-04FE-28F3EB0E4CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BEEA36-77A1-35B7-04FE-28F3EB0E4CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
